@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095348452063",
+    "firebase_url": "https://zilliez.firebaseio.com",
+    "project_id": "zilliez",
+    "storage_bucket": "zilliez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095348452063:android:062dd41db08c92b507476a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095348452063-0rm4td8hlka7bhbj1g921695i1b9okda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_phone_auth",
+            "certificate_hash": "d65e1782936983de48937440b986a5d33cbba25e"
+          }
+        },
+        {
+          "client_id": "1095348452063-s612e00hau3a5jn8rq4e99bk9q8mn359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW9lFRAOE31BBySdtpzDSjbh_EwA7NQ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095348452063-s612e00hau3a5jn8rq4e99bk9q8mn359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
